@@ -2,7 +2,7 @@
 
 https://hub.docker.com/r/pich02/mongodb-without-avx/tags (v7)
 
-https://hub.docker.com/r/l33tlamer/mongodb-without-avx/tags (v6.2)
+https://hub.docker.com/r/l33tlamer/mongodb-without-avx/tags (v6.2 & v5)
 
 https://hub.docker.com/r/jodydadescott/mongodb-without-avx/tags (v6.2)
 
