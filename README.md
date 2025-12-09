@@ -1,3 +1,9 @@
+# DOCKER 
+
+https://hub.docker.com/r/l33tlamer/mongodb-without-avx/tags
+
+docker pull l33tlamer/mongodb-without-avx:6.2.1
+
 # Building Mongodb without avx
 
 Python Prerequisites
